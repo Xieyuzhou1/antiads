@@ -1,2 +1,2 @@
 # antiads
-anti ads
+去网页广告的
